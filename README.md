@@ -10,6 +10,6 @@ To Doodles adalah aplikasi mobile yang memungkinkan pengguna untuk membuat, meng
 ## Screenshot Tampilan Aplikasi
 
 ### Splash Screen / Launch Screen
-![laman splash](splash_screen.jpg)
+![laman splash](ss_tampilan/splash_screen.jpg)
 
 
